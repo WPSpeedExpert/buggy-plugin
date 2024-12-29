@@ -25,7 +25,7 @@ The candidate can resolve the issue by either:
    - Example fixed code:
      ```php
      function buggy_function() {
-         echo 'This will trigger a critical error after activation';
+         echo '';
 
          // Corrected runtime issue:
          // undefined_function_call(); // Commented out to prevent the error

@@ -3,7 +3,7 @@
  * Plugin Name:       Buggy Plugin
  * Plugin URI:        https://octahexa.com
  * Description:       A deliberately buggy plugin for assessment purposes.
- * Version:           1.0.2
+ * Version:           1.0.3
  * Author:            Octahexa
  * Author URI:        https://octahexa.com
  * License:           GPL2
